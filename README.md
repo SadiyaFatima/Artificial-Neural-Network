@@ -89,7 +89,7 @@ First, we are going to import Python libraries. We are using NumPy for the calcu
 Assign Input values:
 Next, we are going to take input values for which we want to train our neural network. Here we can see that we have taken two input features. In actual data sets, the value of the input features is mostly high.
 
-Target Output:
+Target Output
 For the input features, we want to have a specific output for specific input features. It is called the target output. We are going to train the model that gives us the target output for our input features.
 
 Assign the Weights:

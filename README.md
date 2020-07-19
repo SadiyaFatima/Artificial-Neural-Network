@@ -76,6 +76,7 @@ We can develop a neural network that translates one language into another langua
 i. Image processing:
 We can train a neural network to process an image and extract pieces of information from it.
 
+
 About The project
 
 Aim: The main aim of this proect is to help deploy a Python module that can be downloaded by uers via pip to create neural networks.
@@ -108,5 +109,5 @@ Mathematics involved:
 
 Calculate the dot product between inputs and weights Pass the result from step 1 through an activation function The result from Step 1 can be a set of any values. However, in our output we have the values in the form of 1 and 0. We want our output to be in the same format. To do so we need an activation function, which squashes input values between 1 and 0. One such activation function is the sigmoid function. Back Propagation We start by letting the network make random predictions about the output. We then compare the predicted output of the neural network with the actual output. Next, we fine-tune our weights and the bias in such a manner that our predicted output becomes closer to the actual output, which is basically known as "training the neural network". Calculating the cost Minimizing the cost
 
-Contribution Guidlines
+Contribution Guidlines:
 This document provides a set of best practices for open source contributions - bug reports, code submissions / pull requests, etc.
